@@ -18,4 +18,5 @@ To alter the x and y matrices, open `points.m` and alter the values. In the MATL
 
 ## Expected Output
 Here is an example of output where x = [7,14,21,28] and y = [32,34,36,35].
-[nevilleResults.png]
+
+![alt text](https://cloud.githubusercontent.com/assets/9669653/22080199/4fe9815a-dd84-11e6-81f9-ae8ae5c12b8a.png "Neville's Method Example")

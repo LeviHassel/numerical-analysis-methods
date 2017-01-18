@@ -18,4 +18,5 @@ To alter the x and y matrices, open `points.m` and alter the values. In the MATL
 
 ## Expected Output
 Here is an example of output where x = [7,14,21,28] and y = [32,34,36,35].
-[dividedDiffResults.png]
+
+![alt text](https://cloud.githubusercontent.com/assets/9669653/22080196/4fe7f2cc-dd84-11e6-895d-6b9825a5a97b.png "Divided Differences Example")

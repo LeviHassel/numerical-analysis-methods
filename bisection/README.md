@@ -19,4 +19,5 @@ To alter the f(x) used, open `f1.m` and alter the function using correct MATLAB 
 
 ## Expected Output
 Here is an example of output where f(x) = 4(x^3) - (x^2) + 8x + 4(e^x) + 10.
-[bisectionResults.png]
+
+![alt text](https://cloud.githubusercontent.com/assets/9669653/22080197/4fe7deae-dd84-11e6-8b53-7d9e06299d67.png "Bisection Example")

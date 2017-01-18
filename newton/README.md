@@ -20,4 +20,5 @@ To alter the f(x) and f'(x) used, open `f1.m` and `df1.m` respectively and alter
 
 ## Expected Output
 Here is an example of output where f(x) = 4(x^3) - (x^2) + 8x + 4(e^x) + 10 and f'(x) = 12(x^2) - 2x + 8 + 4(e^x).
-[newtonResults.png]
+
+![alt text](https://cloud.githubusercontent.com/assets/9669653/22080203/4ffeb782-dd84-11e6-9010-d4ba28443000.png "Newton's Method Example")
