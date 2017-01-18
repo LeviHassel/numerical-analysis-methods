@@ -1,7 +1,7 @@
 # Visualization of Triangular Scatter Plots
 
 ## Overview
-This program takes as input a set of vertices with elevation values and a set of triangles formed from those vertices and gives as output a visualization of the elevation at the grid points. Below is an example of a set of elevation measurements you can use this program to analyze.
+This program takes as input a set of vertices with elevation values and gives as output a visualization of the elevation at the grid points. Below is an example of a set of elevation measurements you can use this program to analyze.
 
 ![alt text](https://cloud.githubusercontent.com/assets/9669653/22080195/4fe7dee0-dd84-11e6-9200-716750a0ce89.jpg "Elevation Measurements")
 
